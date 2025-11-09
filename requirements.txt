@@ -1,1 +1,4 @@
+# File: requirements.txt
 streamlit
+google-genai
+httpx
